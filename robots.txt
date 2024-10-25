@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://D-Cumming/electrode-innovation-group.github.io//sitemap.xml
+Sitemap: https://d-cumming.github.io//sitemap.xml
